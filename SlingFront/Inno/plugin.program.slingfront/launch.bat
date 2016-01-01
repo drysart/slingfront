@@ -1,0 +1,2 @@
+"%programfiles%\SlingFront\slingfront.exe"
+
